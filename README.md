@@ -24,7 +24,7 @@ ___
 
 ___
 #### :envelope: Contacts
-* LinkedIn: [Valera Zakrevksyi][(https://www.instagram.com/valera.zak/](https://www.linkedin.com/in/valerii-zakrevskyi/))
+* LinkedIn: [Valera Zakrevksyi] (https://www.linkedin.com/in/valerii-zakrevskyi/))
 * Email: (valera.zakrevskyi@gmail.com)
 
 
