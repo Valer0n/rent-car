@@ -1,0 +1,19 @@
+.main {
+    /* display: flex;
+    flex-direction: row; */
+    padding-top: 70px;
+    margin-bottom: 100px;
+}
+
+.filter__car {
+    margin-right: 30px;
+}
+
+@media (max-width: 620px) {
+    .main {
+        /* display: flex;
+        flex-direction: column; */
+        justify-content: center;
+    }
+
+}

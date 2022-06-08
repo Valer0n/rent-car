@@ -1,0 +1,22 @@
+.filter {
+    margin-right: 50px;
+    box-sizing: border-box;
+}
+
+.filter h2 {
+    color: #417E27;
+}
+
+@media (max-width: 920px) {
+    .filter {
+        margin-right: 30px;
+
+    }
+}
+
+@media (max-width: 620px) {
+    .filter {
+        margin-right: 20px;
+        margin-bottom: 50px;
+    }
+}

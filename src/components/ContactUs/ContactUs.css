@@ -1,0 +1,28 @@
+.contact__link {
+    color: #fff;
+}
+
+.link__wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #fff;
+
+}
+
+.link__wrapper a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+}
+
+.link__logo {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.link__logo svg:hover {
+    color: #86B871;
+    transform: scale(1.1);
+}

@@ -1,0 +1,15 @@
+.nav_burger {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.nav_burger a {
+    font-size: 24px;
+}
+
+.nav_burger a:not(:last-child) {
+    margin-bottom: 25px;
+}
