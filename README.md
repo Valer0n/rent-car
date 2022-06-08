@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+## :pushpin: Rent car App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### :memo: Description: 
+Home page of Rent car App.
+
+___
+#### :link: Live Demo: 
+[Rent car App]([https://valer0n.github.io/bhromaon/](https://valer0n.github.io/rent-car/))
+
+___
+#### :rocket: Technologies Used
+* REACT
+* JS
+* MANTINE
+* CSS
+* CSS-GRID
+* CSS-FLEXBOX
+* HTML
+* Local Storage
+* axios
+* react-router-dom
+* hooks
+* emailjs
+
+___
+#### :envelope: Contacts
+* LinkedIn: [Valera Zakrevksyi][(https://www.instagram.com/valera.zak/](https://www.linkedin.com/in/valerii-zakrevskyi/))
+* Email: (valera.zakrevskyi@gmail.com)
+
+
 
 ## Available Scripts
 
