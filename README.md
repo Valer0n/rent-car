@@ -5,7 +5,7 @@ Home page of Rent car App.
 
 ___
 #### :link: Live Demo: 
-[Rent car App]([https://valer0n.github.io/bhromaon/](https://valer0n.github.io/rent-car/])
+[https://valer0n.github.io/rent-car/)]
 
 ___
 #### :rocket: Technologies Used
